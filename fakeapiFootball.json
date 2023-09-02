@@ -1,36 +1,36 @@
 [
   {
-    "id": 1,
+
     "name": "Lionel Messi",
     "team": "Inter Miami",
     "photo_url": "https://img.a.transfermarkt.technology/portrait/header/28003-1690045464.jpg?lm=1"
   },
   {
-    "id": 2,
+  
     "name": "Cristiano Ronaldo",
     "team": "Al Ittihad",
     "photo_url": "https://img.a.transfermarkt.technology/portrait/header/8198-1685035469.png?lm=1"
   },
   {
-    "id": 3,
+   
     "name": "Neymar Jr.",
     "team": "Al-Hilal SFC",
     "photo_url": "https://img.a.transfermarkt.technology/portrait/header/68290-1692601435.jpg?lm=1"
   },
   {
-    "id": 4,
+    
     "name": "Kylian Mbappé",
     "team": "Paris Saint-Germain",
     "photo_url": "https://img.a.transfermarkt.technology/portrait/header/342229-1682683695.jpg?lm=1"
   },
   {
-    "id": 5,
+    
     "name": "Sergio Ramos",
     "team": "Galatasaray",
     "photo_url": "https://img.a.transfermarkt.technology/portrait/header/25557-1640014004.jpg?lm=1"
   },
   {
-    "id": 6,
+    
     "name": "Mohamed Salah",
     "team": "Liverpool",
     "photo_url": "https://img.a.transfermarkt.technology/portrait/header/148455-1546611604.jpg?lm=1"
@@ -42,19 +42,19 @@
     "photo_url": "https://img.a.transfermarkt.technology/portrait/header/38253-1642434304.jpg?lm=1"
   },
   {
-    "id": 8,
+    
     "name": "Kevin De Bruyne",
     "team": "Manchester City",
     "photo_url": "https://img.a.transfermarkt.technology/portrait/header/88755-1684245748.jpg?lm=1"
   },
   {
-    "id": 9,
+    
     "name": "Antoine Griezmann",
     "team": "Atletico Madrid",
     "photo_url": "https://img.a.transfermarkt.technology/portrait/header/125781-1667568355.jpg?lm=1"
   },
   {
-    "id": 10,
+    
     "name": "Karim Benzema",
     "team": "Al Ittihad",
     "photo_url": "https://img.a.transfermarkt.technology/portrait/header/18922-1653042225.jpg?lm=1"
